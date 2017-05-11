@@ -1,0 +1,36 @@
+.error{
+	color: red;
+	font-weight: bold;
+}
+td.thao-tac a{
+    color: green;
+}
+.full-width{
+	width: 100%;
+}
+.color-yellow{
+	color: yellow;
+}
+.color-green{
+	color: green;
+}
+.color-black{
+	color: black;
+}
+.color-blue{
+	color: blue;
+}
+.validate-error{
+	color: red;
+}
+@media (min-width:992px){
+	.chart-responsive{
+		/*height: 280px;*/
+	}
+}
+#map {
+   width: 100%;
+   height: 300px;
+   background-color: grey;
+   margin-top: 30px;
+ }
